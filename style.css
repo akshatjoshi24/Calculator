@@ -1,0 +1,43 @@
+h1{
+  color: rgb(112, 70, 14);
+  align-items: center;
+  justify-items: center;
+
+  
+}
+
+h3{
+  color: rgb(112, 70, 14);
+  align-items: center;
+  justify-items: center;
+
+  
+}
+
+
+#calculator{
+  background-color: rgb(232, 217, 197);
+  border: 1.5px solid rgb(95, 93, 93);
+  border-radius: 5px;
+  width: 200px;
+}
+
+#display{
+  margin: 10px;
+  width: 85%;
+  font-size: 25px;
+}
+
+.button-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap ;
+}
+
+
+.button{
+  color: rgb(46, 4, 4);
+  height: 45px;
+  width: 45px;
+  margin: 3px;
+}
